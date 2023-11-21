@@ -3,7 +3,7 @@ description: A widget can prevent Child Widget unnecessary rebuild.You can custo
 version: 1.0.1
 homepage: https://github.com/fantasy525/should_rebuild
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.17.6 <3.0.0"
 
 dependencies:
   flutter:
